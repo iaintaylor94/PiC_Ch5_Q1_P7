@@ -1,6 +1,6 @@
 # Programming in C
 ## Chapter 5
-### Question 1: Part 5
+### Question 1: Part 7
 
 This problem is from chapter 5 of the textbook, it is to find the greatest common divisor of two non-negative integers an print this result to the terminal.[^1]
 
